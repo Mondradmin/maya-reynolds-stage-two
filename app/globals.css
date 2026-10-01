@@ -4,56 +4,56 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/font-0.ttf) format('truetype');
+  src: url('./fonts/font-0.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Cormorant Infant';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/font-1.ttf) format('truetype');
+  src: url('./fonts/font-1.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Cormorant Infant';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/font-2.ttf) format('truetype');
+  src: url('./fonts/font-2.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Cormorant Infant';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/font-3.ttf) format('truetype');
+  src: url('./fonts/font-3.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/fonts/font-4.ttf) format('truetype');
+  src: url('./fonts/font-4.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/fonts/font-5.ttf) format('truetype');
+  src: url('./fonts/font-5.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/fonts/font-6.ttf) format('truetype');
+  src: url('./fonts/font-6.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/fonts/font-7.ttf) format('truetype');
+  src: url('./fonts/font-7.ttf') format('truetype');
 }
 
 :root{--paper:#f7f4eb;--ink:#183d3f;--secondary:#e5ebe4;--accent:#9c553c;--line:#a8bbb4;--dark:#123335;--serif:'Cormorant Infant',Georgia,serif;--sans:'Mulish',Arial,sans-serif}
