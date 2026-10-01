@@ -1,0 +1,81 @@
+.reference-page {
+  --sqs-site-gutter: 5vw;
+  --sqs-mobile-site-gutter: 6vw;
+  --sqs-site-max-width: 1800px;
+  --ref-heading-scale: 1.2vw;
+  position: relative;
+  overflow: clip;
+  background: #f6f4ee;
+  color: #2b2b2b;
+  font-family: Muli, Arial, sans-serif;
+  font-weight: 300;
+  font-size: calc(.1 * var(--ref-heading-scale) + 15px);
+  line-height: 1.8;
+  letter-spacing: normal;
+}
+.reference-page p { font: inherit; margin: 15px 0; line-height: 1.8; }
+.reference-page h1,.reference-page h2,.reference-page h3,.reference-page h4 { font-family: beaufort-pro, serif; font-weight: 300; font-style: normal; letter-spacing: -.01em; margin: 30px 0; color: inherit; }
+.reference-page h1 { font-size: calc(2.6 * var(--ref-heading-scale) + 15px); line-height: 1.2544; }
+.reference-page h2 { font-size: calc(1.9 * var(--ref-heading-scale) + 15px); line-height: 1.2936; }
+.reference-page h3 { font-size: calc(1.4 * var(--ref-heading-scale) + 15px); line-height: 1.3216; }
+.reference-page h4 { font-size: calc(.7 * var(--ref-heading-scale) + 15px); line-height: 1.3608; }
+.reference-page em { color: inherit; font-weight: inherit; }
+.reference-page h1 em,.reference-page h2 em,.reference-page h3 em,.reference-page h4 em { font-style: italic; }
+.reference-page h1 strong em,.reference-page h2 strong em,.reference-page h3 strong em,.reference-page h4 strong em { font-family: PrintedMoments, cursive; font-weight: 300; font-style: normal; line-height: .7; letter-spacing: 0; }
+.reference-page h1 strong em,.reference-page h2 strong em,.reference-page h3 strong em { color: #86b3b3; }
+.reference-page strong { font-weight: 400; }
+.reference-page .sqsrte-large { font-size: 15px; }
+.reference-page .sqsrte-large strong em { font-size: inherit; font-style: normal; font-weight: 400; letter-spacing: .12em; text-transform: uppercase; }
+.reference-page .sqsrte-small { font-size: calc(-.1 * var(--ref-heading-scale) + 15px); }
+.reference-page .sqs-html-content { width: 100%; }
+.reference-page .sqs-html-content>:first-child { margin-top: 0; }
+.reference-page .sqs-html-content>:last-child { margin-bottom: 0; }
+.reference-page .sqs-block { display: flex; flex-direction: column; width: 100%; height: 100%; padding: 0; }
+.reference-page .fe-block { position: relative; min-width: 0; }
+.reference-page .ref-section { display: flex; flex-direction: column; justify-content: center; position: relative; }
+.reference-page .ref-content-wrapper { position: relative; width: 100%; flex: 0 0 auto; z-index: 1; }
+.reference-page .fluid-engine { width: 100%; height: 100%; }
+.reference-page .ref-hero { padding-top: calc(75px + 2.8vw); }
+.reference-page .ref-background { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.reference-page .has-background::after { content: ''; position: absolute; inset: 0; background: #2b2b2b; opacity: .54; }
+.reference-page .black { color: white; }
+.reference-page .ref-image-block img { width: 100%; height: 100%; position: absolute; inset: 0; }
+.reference-page .ref-image-block img[src*="reference-12.png"] { height: auto; bottom: auto; }
+.reference-page .fe-block-yui_3_17_2_1_1728329624987_447998 { min-height: 48px; }
+.reference-page .ref-button-container { width: 100%; display: flex; align-items: center; }
+.reference-page .ref-text-button { display: inline-block; padding: 9px 0; border-bottom: 1px solid #515151; font-size: calc(-.15 * var(--ref-heading-scale) + 15px); font-weight: 400; letter-spacing: .12em; text-transform: uppercase; line-height: normal; }
+.reference-page hr { border: 0; height: 1px; margin: auto 0; background: #86b3b3; width: 100%; }
+.reference-page .ref-header { position: absolute; inset: 0 0 auto; z-index: 30; padding: 1.4vw 5vw; line-height: 1; }
+.reference-page .ref-logo img { width: auto; height: 75px; max-width: none; }
+.reference-page .ref-nav { gap: 2.5vw; font-size: calc(-.1 * var(--ref-heading-scale) + 15px); font-weight: 400; letter-spacing: .1em; text-transform: uppercase; line-height: 1.8; }
+.reference-page .ref-nav>a:not(.ref-contact),.reference-page .ref-nav .ref-folder summary { padding: .1em 0; }
+.reference-page .ref-folder { position: relative; }
+.reference-page .ref-folder summary { cursor: pointer; list-style: none; white-space: nowrap; }
+.reference-page summary::-webkit-details-marker { display: none; }
+.reference-page .ref-folder>div { position: absolute; top: calc(100% + 12px); left: -15px; background: #f6f4ee; min-width: 250px; padding: 15px; box-shadow: 0 8px 15px #0001; }
+.reference-page .ref-folder>div a { display: block; padding: 12px 0; line-height: 1.6; }
+.reference-page .ref-contact { border: 1px solid; border-radius: 100%; padding: 15px 19.5px; font-size: calc(-.15 * var(--ref-heading-scale) + 15px); letter-spacing: .12em; line-height: normal; }
+.reference-page .ref-mobile-menu { display: none; }
+.reference-page footer .sqsrte-small { font-size: .9em; }
+.reference-page [data-section-id="670423e206da6c036366fd29"] p { margin: 15px 0; }
+.reference-page [data-section-id="670423e206da6c036366fd29"] .sqs-html-content>:first-child { margin-top: 0; }
+.reference-page [data-section-id="670423e206da6c036366fd29"] .sqs-html-content>:last-child { margin-bottom: 0; }
+.reference-page [data-section-id="670423e206da6c036366fd29"] .sqsrte-large { font-size: 15px; }
+.reference-page [data-section-id="6705850336a84f2ca2501714"] p { font-size: .9em; }
+@media (min-width:1800px) { .reference-page { --ref-heading-scale: 21.6px; } }
+@media only screen and (pointer:coarse) and (max-width:1024px), screen and (max-width:799px) {
+  .reference-page .ref-header { padding: 6vw; }
+  .reference-page .ref-hero { padding-top: calc(75px + 12vw); }
+  .reference-page .ref-nav { display: none; }
+  .reference-page .ref-mobile-menu { display: block; }
+  .reference-page .ref-mobile-menu>summary { width: 30px; height: 35px; display: flex; flex-direction: column; justify-content: center; gap: 9px; cursor: pointer; }
+  .reference-page .ref-mobile-menu>summary span { display: block; height: 1px; background: currentColor; width: 28px; }
+  .reference-page .ref-mobile-menu>nav { position: absolute; top: 100%; inset-inline: 0; background: #f6f4ee; padding: 25px 6vw; max-height: 70vh; overflow-y: auto; }
+  .reference-page .ref-mobile-menu>nav>a,.reference-page .ref-mobile-menu>nav>.ref-folder { display: block; padding: 12px 0; font-size: 23px; letter-spacing: 0; }
+  .reference-page .ref-folder>div { position: static; background: transparent; box-shadow: none; padding: 12px 0 0; font-size: 16px; }
+}
+@media (max-width:767px) {
+  .reference-page { --ref-heading-scale: calc(.012 * min(100vh, 900px)); }
+  .reference-page .ref-logo img { height: 70px; }
+  .reference-page .ref-hero { padding-top: calc(70px + 12vw); }
+}

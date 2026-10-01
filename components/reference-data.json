@@ -1,0 +1,848 @@
+{
+  "sections": [
+    {
+      "backgroundColor": "rgb(246, 244, 238)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329027525_8139",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>ONLINE &amp; IN-PERSON COUNSELING IN NEWBURY PARK &amp; ACROSS CA</em></strong></p>",
+          "id": "block-yui_3_17_2_1_1728329027525_8139",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-9564345a748403b0e7bb",
+          "hr": false,
+          "html": "<h1 style=\"white-space:pre-wrap\">Rebuild your foundation on solid ground and finally begin to  <span class=\"sqsrte-text-color--darkAccent\"><strong><em>thrive</em></strong></span>.&nbsp;</h1><p class=\"\" style=\"white-space:pre-wrap\">Specialized therapy for adults, couples, teens, and children to reflect, heal, and grow.</p>",
+          "id": "block-9564345a748403b0e7bb",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/contact",
+            "text": "\n    Book an Appointment\n  "
+          },
+          "classes": "fe-block fe-block-124697bcbb528b821fdc",
+          "hr": false,
+          "id": "block-124697bcbb528b821fdc",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "alt": "family therapy",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_7398",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_7398",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/80513bd1-30ee-4a2d-aaf6-782d9be095ce/Jennifer+A+-+Images+%2866%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-1.jpg"
+        },
+        {
+          "alt": "child therapy",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-50cb5ccf042e9e731869",
+          "hr": false,
+          "id": "block-50cb5ccf042e9e731869",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/3643a7ac-ff62-4927-b96e-9e65ecff0521/Jennifer+A+-+Images+%2867%29.jpg",
+          "justify": "center",
+          "position": "87.2951% 56.0035%",
+          "imageName": "reference-2.jpg"
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle light",
+      "grid": "fluid-engine fe-670423e206da6c036366fd5e",
+      "id": "670423e206da6c036366fd5f",
+      "padding": 0,
+      "minHeight": 0,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(246, 244, 238)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-7a3e745fa01a7fa9a5e5",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\">You\u2019re holding onto hope that life can be better than it is right now.</h2>",
+          "id": "block-7a3e745fa01a7fa9a5e5",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_145231",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>At Conejo Valley Family Counseling we want to make that hope a reality.</em></strong> </p><p class=\"\" style=\"white-space:pre-wrap\">Whether you&#x27;re an adult seeking personal growth, &nbsp;looking to work through your trauma, a couple working on your relationship, or a parent looking for support for your child, we provide a compassionate and safe space to help you navigate all of life\u2019s ups and downs.&nbsp;</p>",
+          "id": "block-yui_3_17_2_1_1728329624987_145231",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "alt": "Sandy beach with gentle ocean waves and a cloudy sky.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_154959",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_154959",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7a40691c-70a5-4307-b9ae-974592087a8f/Jennifer+A+-+Images+%283%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-3.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-bfaa13788d77494459a4",
+          "hr": false,
+          "html": "<p class=\"\" style=\"white-space:pre-wrap\">First and foremost, we believe what you\u2019re going through is real, valid, and worthy of support. Our team offers clients in the Newbury Park area and across CA an environment to discover a new life and a deeper sense of self in the midst of their struggles. As we tap into the power of connection and understanding, you can find your footing again and take a transformative path forward.</p>",
+          "id": "block-bfaa13788d77494459a4",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed content-width--wide horizontal-alignment--center vertical-alignment--middle light",
+      "grid": "fluid-engine fe-670423e206da6c036366fd61",
+      "id": "670423e206da6c036366fd62",
+      "padding": 7,
+      "minHeight": 70,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-afd41166a17bf8c774e6",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--darkAccent\"> </span><span class=\"sqsrte-text-color--black\">Who we </span><span class=\"sqsrte-text-color--darkAccent\"> <strong><em>help</em></strong></span></h2>",
+          "id": "block-afd41166a17bf8c774e6",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "alt": "Two people sitting on a log at the beach, facing a lake with mountains in the background.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_182814",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_182814",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/066f60e6-1354-4d47-a586-ab3f2f2ba612/Jennifer+A+-+Images+%288%29.jpg",
+          "justify": "center",
+          "position": "51.1871% 64.804%",
+          "imageName": "reference-4.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_218180",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\">Adults</h4><p class=\"\" style=\"white-space:pre-wrap\">Feeling stuck or overwhelmed? We help adults find clarity, build resilience, and move forward with confidence by addressing the root causes of anxiety, stress, and emotional pain.</p>",
+          "id": "block-yui_3_17_2_1_1728329624987_218180",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "alt": "A couple embracing on the beach, with both wearing casual summer clothing and smiling at each other. The ocean is in the background.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-581b202682828572d0e3",
+          "hr": false,
+          "id": "block-581b202682828572d0e3",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d0157712-388c-4800-aada-c78db97ee966/Jennifer+A+-+Images+%289%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-5.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-7624f9a79fa170f6c75b",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/couples-therapy\">Couples</a></h4><p class=\"\" style=\"white-space:pre-wrap\">Relationships require effort, and we\u2019re here to help you strengthen yours. We guide couples through challenges like communication breakdowns and trust issues, helping you rebuild intimacy and strengthen your relationship.</p>",
+          "id": "block-7624f9a79fa170f6c75b",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "alt": "A boy carrying a girl on a beach with waves in the background.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-929fed73a19995098dc0",
+          "hr": false,
+          "id": "block-929fed73a19995098dc0",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/d5d62bf4-34a7-4bf4-bf00-e1169863ace7/Jennifer+A+-+Images+%2810%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-6.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-6a03a5c3144fbe83bc5f",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/children-and-teens\">Children</a> &amp; Teens</h4><p class=\"\" style=\"white-space:pre-wrap\">Kids need support, too. We help them process big emotions, cope with challenging family situations, build coping skills, and feel understood, while also working closely with their parents to create a nurturing environment.</p>",
+          "id": "block-6a03a5c3144fbe83bc5f",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+      "grid": "fluid-engine fe-670459995ef26139f4c3b231",
+      "id": "670459993b2c8501ffcac2d5",
+      "padding": 6.6,
+      "minHeight": 66,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(43, 43, 43)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_257129",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--lightAccent\">You deserve a place where your story is heard, valued, and understood. <em>Nothing will be too heavy for us to carry together.</em></span></h2>",
+          "id": "block-yui_3_17_2_1_1728329624987_257129",
+          "justify": "flex-end",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle has-background black",
+      "grid": "fluid-engine fe-6705712c04eb0e6304973a15",
+      "id": "6705712cbfc15638d2c66167",
+      "padding": 6.6,
+      "minHeight": 66,
+      "backgroundImage": "reference-7.png"
+    },
+    {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-74463411f427f796a02e",
+          "hr": false,
+          "html": "<h3 style=\"white-space:pre-wrap\">Our areas of <span class=\"sqsrte-text-color--darkAccent\"><strong><em>expertise</em></strong></span></h3>",
+          "id": "block-74463411f427f796a02e",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-a1dbbce5bd2cf6e84500",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/dissociative-identity-disorder-therapist-newbury-park\"><span class=\"sqsrte-text-color--black\"><strong><em>Dissociation</em></strong></span></a></p>",
+          "id": "block-a1dbbce5bd2cf6e84500",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_275814",
+          "hr": true,
+          "id": "block-yui_3_17_2_1_1728329624987_275814",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-f8251affe64e093dbd69",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/trauma-counseling-newbury-park\"><span class=\"sqsrte-text-color--black\"><strong><em>Trauma</em></strong></span></a></p>",
+          "id": "block-f8251affe64e093dbd69",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-98465766eeae507409e3",
+          "hr": true,
+          "id": "block-98465766eeae507409e3",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_272753",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--black\"><strong><em>Family conflict</em></strong></span></p>",
+          "id": "block-yui_3_17_2_1_1728329624987_272753",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-5263f30c862d41c2519a",
+          "hr": true,
+          "id": "block-5263f30c862d41c2519a",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-03c07118a82da51b472d",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/counseling-special-needs-parents-newbury-park\"><span class=\"sqsrte-text-color--black\"><strong><em>Special needs parenting</em></strong></span></a></p>",
+          "id": "block-03c07118a82da51b472d",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-d5be43aeed13c12d3818",
+          "hr": true,
+          "id": "block-d5be43aeed13c12d3818",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-79485125000ad5ac1a27",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/anxiety-depression\"><span class=\"sqsrte-text-color--black\"><strong><em>Depression</em></strong></span></a></p>",
+          "id": "block-79485125000ad5ac1a27",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-eb59521867c75718561b",
+          "hr": true,
+          "id": "block-eb59521867c75718561b",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-d0c2c2138ccc40622660",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/couples-therapy\"><span class=\"sqsrte-text-color--black\"><strong><em>marriage</em></strong></span></a></p>",
+          "id": "block-d0c2c2138ccc40622660",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-96861cae16f888508bd1",
+          "hr": true,
+          "id": "block-96861cae16f888508bd1",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-474a57be83beaed8449c",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/anxiety-depression\"><span class=\"sqsrte-text-color--black\"><strong><em>anxiety</em></strong></span></a></p>",
+          "id": "block-474a57be83beaed8449c",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-8142e4cedb861511abe7",
+          "hr": true,
+          "id": "block-8142e4cedb861511abe7",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-58727bce2d95c5a76f39",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--black\"><strong><em>relationships</em></strong></span></p>",
+          "id": "block-58727bce2d95c5a76f39",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-70b3548b5714a371be09",
+          "hr": true,
+          "id": "block-70b3548b5714a371be09",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-e6340c47e799fde02a5c",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/children-and-teens\"><span class=\"sqsrte-text-color--black\"><strong><em>children</em></strong></span></a></p>",
+          "id": "block-e6340c47e799fde02a5c",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-8720a1bd40fc2e783f56",
+          "hr": true,
+          "id": "block-8720a1bd40fc2e783f56",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-55e8cae89c8f36899777",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/children-and-teens\"><span class=\"sqsrte-text-color--black\"><strong><em>teens</em></strong></span></a></p>",
+          "id": "block-55e8cae89c8f36899777",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-horizontalrule horizontalrule-block",
+          "button": null,
+          "classes": "fe-block fe-block-908566b4b3789ebf37c6",
+          "hr": true,
+          "id": "block-908566b4b3789ebf37c6",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-84749dcbb6a4e2e71863",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/couples-therapy\"><span class=\"sqsrte-text-color--black\"><strong><em>intimacy &amp; connection</em></strong></span></a></p>",
+          "id": "block-84749dcbb6a4e2e71863",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-71e86597f0ab5d8b4136",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--black\"><strong><em>\u2026and more.</em></strong></span></p>",
+          "id": "block-71e86597f0ab5d8b4136",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+      "grid": "fluid-engine fe-670423e206da6c036366fd64",
+      "id": "670423e206da6c036366fd65",
+      "padding": 8,
+      "minHeight": 80,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(227, 217, 202)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_330507",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--black\"><strong><em>HOW WE WORK</em></strong></span></p>",
+          "id": "block-yui_3_17_2_1_1728329624987_330507",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_322107",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\">We\u2019re here to make a difference.</h2>",
+          "id": "block-yui_3_17_2_1_1728329624987_322107",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "alt": "A woman and a child in white dresses dancing on a sandy beach with tall grasses and a distant building in the background during sunset.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_334674",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_334674",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/389808ad-7273-4e03-a32b-c172aa735f12/Jennifer+A+-+Images+%286%29.jpg",
+          "justify": "center",
+          "position": "21.6259% 45.6029%",
+          "imageName": "reference-8.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-8f9b4f402c84b3ecc09f",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>The clients we work with are balancing so many things at once, it\u2019s often hard for them to put themselves first.</em></strong></p><p class=\"\" style=\"white-space:pre-wrap\"> Here, your needs are always top priority. Our team takes the time to deeply listen to our clients in order to truly understand their story and their struggles. We recognize that no two people are the same and that personalized therapy means an intentional, tailored approach. (You won\u2019t find anything \u201cone-size-fits-all\u201d here.) If you\u2019re ready to do the work, we\u2019re ready to help.</p>",
+          "id": "block-8f9b4f402c84b3ecc09f",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-8b42a43928e2968a72b9",
+          "hr": false,
+          "html": "<p class=\"\" style=\"white-space:pre-wrap\">Sometimes we may gently challenge you to look at things differently and other times we may explore your emotions, all while encouraging you to practice what you\u2019ve learned in your daily life. We take what we do seriously because we know how important it is for you to heal from what\u2019s hurting you, discover a fulfilling life, and build meaningful relationships. Our goal is to walk alongside you in this journey, offering support and guidance as you uncover your strengths and embrace what the future can hold for you.</p>",
+          "id": "block-8b42a43928e2968a72b9",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/therapists-newbury-park",
+            "text": "\n    Learn more about us\n  "
+          },
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_350661",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_350661",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle bright",
+      "grid": "fluid-engine fe-67057567e89a430ad05bcbe4",
+      "id": "67057567c1d4a434a3992873",
+      "padding": 0,
+      "minHeight": 0,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "blocks": [
+        {
+          "alt": "Family of four standing on a beach, holding hands, facing the ocean at sunset.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_313059",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_313059",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/6f1501bf-74a5-4c57-a957-8ce4c5876848/Jennifer+A+-+Images+%285%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-9.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-05f5ed24db35287fbf64",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\">Honoring where you\u2019ve been <span class=\"sqsrte-text-color--darkAccent\"><strong><em>&amp;</em></strong></span> helping shape where you\u2019re headed.&nbsp;</h2>",
+          "id": "block-05f5ed24db35287fbf64",
+          "justify": "flex-end",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+      "grid": "fluid-engine fe-670574db485f7e587b3d6914",
+      "id": "670574db0996216c7acc68e1",
+      "padding": 6.6,
+      "minHeight": 66,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_405426",
+          "hr": false,
+          "html": "<h3 style=\"white-space:pre-wrap\">Our  <span class=\"sqsrte-text-color--darkAccent\"><strong><em>specialties</em></strong></span> include\u2026</h3>",
+          "id": "block-yui_3_17_2_1_1728329624987_405426",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-25d485c7699f406931ee",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\">Trauma</h4><p class=\"\" style=\"white-space:pre-wrap\">We don\u2019t always know when and how we\u2019ve experienced trauma. In therapy, we\u2019ll work together to help you process your past, understand what\u2019s causing you to stay \u201cstuck,\u201d and regain a sense of safety, control, and hope. You don\u2019t have to carry your burdens alone.</p>",
+          "id": "block-25d485c7699f406931ee",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/trauma-counseling-newbury-park",
+            "text": "\n    Learn more\n  "
+          },
+          "classes": "fe-block fe-block-5f9e7e0b9782167bf617",
+          "hr": false,
+          "id": "block-5f9e7e0b9782167bf617",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-88c5a3eb68747e0f471b",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\">Dissociation</h4><p class=\"\" style=\"white-space:pre-wrap\">The feeling of losing time, hearing conflicting voices, or questioning your sense of self can be overwhelming. In therapy, we\u2019ll help you understand these experiences, recognize your own triggers, and create a sense of balance and identity so that you can feel more grounded.</p>",
+          "id": "block-88c5a3eb68747e0f471b",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/dissociative-identity-disorder-therapist-newbury-park",
+            "text": "\n    Learn more\n  "
+          },
+          "classes": "fe-block fe-block-991da242196344bb6991",
+          "hr": false,
+          "id": "block-991da242196344bb6991",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-1becd85a81a70d297eaf",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\">EMDR</h4><p class=\"\" style=\"white-space:pre-wrap\">Eye Movement Desensitization and Reprocessing (EMDR) is a powerful therapeutic technique that helps process and heal trauma by reworking how painful memories are stored in your brain. This allows you to find relief and move toward lasting healing.</p>",
+          "id": "block-1becd85a81a70d297eaf",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/emdr-therapy-newbury-park",
+            "text": "\n    Learn more\n  "
+          },
+          "classes": "fe-block fe-block-017c5867a90be66eaa6f",
+          "hr": false,
+          "id": "block-017c5867a90be66eaa6f",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-d4faa8c6bef1e66c2a11",
+          "hr": false,
+          "html": "<h4 style=\"white-space:pre-wrap\">Special Needs Parenting</h4><p class=\"\" style=\"white-space:pre-wrap\">Parenting a child with special needs presents unique challenges and complex emotions. We provide compassionate support through lived experience and expertise to help you navigate this journey with tools, understanding, and self-care.</p>",
+          "id": "block-d4faa8c6bef1e66c2a11",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/counseling-special-needs-parents-newbury-park",
+            "text": "\n    Learn more\n  "
+          },
+          "classes": "fe-block fe-block-3f022797c4da5b6a39c7",
+          "hr": false,
+          "id": "block-3f022797c4da5b6a39c7",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+      "grid": "fluid-engine fe-670423e206da6c036366fd6a",
+      "id": "670423e206da6c036366fd6b",
+      "padding": 0,
+      "minHeight": 0,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(246, 244, 238)",
+      "blocks": [
+        {
+          "alt": "A person picking up seashells on a sandy beach.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-692180b62f5c831efd7e",
+          "hr": false,
+          "id": "block-692180b62f5c831efd7e",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/1b9495e0-ce39-4826-9df9-e24de99da82f/Jennifer+A+-+Images+%2812%29.jpg",
+          "justify": "center",
+          "position": "50% 50%",
+          "imageName": "reference-10.jpg"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-4c85aa4746f2350169ef",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>SCHEDULE AN APPOINTMENT</em></strong>&nbsp;</p>",
+          "id": "block-4c85aa4746f2350169ef",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_462276",
+          "hr": false,
+          "html": "<h2 style=\"white-space:pre-wrap\">Find a therapist who is the right fit for  <span class=\"sqsrte-text-color--darkAccent\"><strong><em>you</em></strong></span>.</h2>",
+          "id": "block-yui_3_17_2_1_1728329624987_462276",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-f648c4884ed36c755c73",
+          "hr": false,
+          "html": "<p class=\"\" style=\"white-space:pre-wrap\">Coming to therapy is a courageous decision, and connecting with the right kind of therapist makes all the difference. We understand that your journey is personal, and we&#x27;re here to support you with care and understanding every step of the way. Each member of our team brings dedicated expertise and a commitment to support you in your struggles. We want you to feel prioritized, understood, and empowered.</p><p class=\"\" style=\"white-space:pre-wrap\">Click the button below to schedule an appointment.</p>",
+          "id": "block-f648c4884ed36c755c73",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-button button-block",
+          "button": {
+            "classes": "sqs-block-button-element--large sqs-button-element--secondary sqs-block-button-element",
+            "href": "https://www.conejovalleycounseling.com/contact",
+            "text": "\n    Book now\n  "
+          },
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_447998",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_447998",
+          "justify": "center",
+          "position": ""
+        },
+        {
+          "alt": "A person in a striped dress pointing at shells on the sandy beach, with a child in blue shorts standing barefoot nearby.",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_464945",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_464945",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7557312a-044d-4489-a9d1-6f43ee9888b1/Jennifer+A+-+Images+%2811%29.jpg",
+          "justify": "center",
+          "position": "62.8568% 52.8033%",
+          "imageName": "reference-11.jpg"
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle light",
+      "grid": "fluid-engine fe-670423e206da6c036366fd6d",
+      "id": "670423e206da6c036366fd6e",
+      "padding": 6.6,
+      "minHeight": 66,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(255, 255, 255)",
+      "blocks": [
+        {
+          "alt": "",
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-image image-block",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_492411",
+          "hr": false,
+          "id": "block-yui_3_17_2_1_1728329624987_492411",
+          "image": "https://images.squarespace-cdn.com/content/v1/670423e106da6c036366fd10/7116bf54-a0e1-4128-81d8-24fd9960c7ed/Conejo+Valley+Counseling+Logo.png",
+          "justify": "flex-start",
+          "position": "50% 50%",
+          "imageName": "reference-12.png"
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block sqs-background-enabled",
+          "button": null,
+          "classes": "fe-block fe-block-yui_3_17_2_1_1728329624987_477365",
+          "hr": false,
+          "html": "<p class=\"\" style=\"white-space:pre-wrap\">We want to make getting started simple. You\u2019re welcome to come into our office in Newbury Park or schedule virtual appointments from anywhere in CA\u2014whatever works best for you.&nbsp;</p>",
+          "id": "block-yui_3_17_2_1_1728329624987_477365",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-b5d6b9d50dcd61566a20",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>Navigate</em></strong></p><p class=\"sqsrte-small\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/home\"><span class=\"sqsrte-text-color--black\">Home</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/therapists-newbury-park\"><span class=\"sqsrte-text-color--black\">About</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/faqs\"><span class=\"sqsrte-text-color--black\">FAQs</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/contact\"><span class=\"sqsrte-text-color--black\">Contact</span></a></p>",
+          "id": "block-b5d6b9d50dcd61566a20",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-1cb969de096a9ebf0021",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>Contact</em></strong></p><p class=\"sqsrte-small\" style=\"white-space:pre-wrap\">925 Broadbeck Dr <br>Suites 200 and 225 <br>Newbury Park, CA 91320<br><a href=\"mailto:info@conejovalleycounseling.com?\"><span class=\"sqsrte-text-color--black\">info@conejovalleycounseling.com</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"tel:8052423120\"><span class=\"sqsrte-text-color--black\">805.242.3120</span></a></p><p class=\"sqsrte-small\" style=\"white-space:pre-wrap\"><span class=\"sqsrte-text-color--black\"><em>Serving Thousand Oaks, Westlake Village, Camarillo, Moorpark, &amp; Simi Valley</em></span></p>",
+          "id": "block-1cb969de096a9ebf0021",
+          "justify": "flex-start",
+          "position": ""
+        },
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block",
+          "button": null,
+          "classes": "fe-block fe-block-9f36b6640fed8f937ca6",
+          "hr": false,
+          "html": "<p class=\"sqsrte-large\" style=\"white-space:pre-wrap\"><strong><em>Our Team</em></strong></p><p class=\"sqsrte-small\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/jennifer-anderson\"><span class=\"sqsrte-text-color--black\">Jennifer Anderson</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/heather-williams-baumgart\"><span class=\"sqsrte-text-color--black\">Heather Williams-Baumgart</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/autumn-bodily\"><span class=\"sqsrte-text-color--black\">Autumn Bodily</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/candace-bletscher\"><span class=\"sqsrte-text-color--black\">Candace Bletscher</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/samantha-johnson\"><span class=\"sqsrte-text-color--black\">Samantha Johnson</span></a><span class=\"sqsrte-text-color--black\"><br></span><a href=\"https://www.conejovalleycounseling.com/rosa-gomez\"><span class=\"sqsrte-text-color--black\">Rosa Gome</span></a><span class=\"sqsrte-text-color--black\">z</span><br><a href=\"https://www.conejovalleycounseling.com/chad-flores\"><span class=\"sqsrte-text-color--black\">Chad Flores</span></a></p>",
+          "id": "block-9f36b6640fed8f937ca6",
+          "justify": "flex-start",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+      "grid": "fluid-engine fe-670423e206da6c036366fd28",
+      "id": "670423e206da6c036366fd29",
+      "padding": 4.5,
+      "minHeight": 45,
+      "backgroundImage": null
+    },
+    {
+      "backgroundColor": "rgb(134, 179, 179)",
+      "blocks": [
+        {
+          "blockClasses": "sqs-block website-component-block sqs-block-website-component sqs-block-html html-block sqs-background-enabled",
+          "button": null,
+          "classes": "fe-block fe-block-67058503afd67bb182fe33ee",
+          "hr": false,
+          "html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap\"><a href=\"https://www.conejovalleycounseling.com/terms\"><span class=\"sqsrte-text-color--white\">Terms</span></a><span class=\"sqsrte-text-color--white\"> | </span><a href=\"https://www.conejovalleycounseling.com/privacy-policy\"><span class=\"sqsrte-text-color--white\">Privacy Policy</span></a><span class=\"sqsrte-text-color--white\"> | </span><a href=\"https://www.conejovalleycounseling.com/disclaimer\"><span class=\"sqsrte-text-color--white\">Disclaimer</span></a><span class=\"sqsrte-text-color--white\"> | Website by </span><a href=\"https://walkerstrategyco.com\"><span class=\"sqsrte-text-color--white\">Walker Strategy Co.</span></a></p>",
+          "id": "block-67058503afd67bb182fe33ee",
+          "justify": "center",
+          "position": ""
+        }
+      ],
+      "classes": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle dark",
+      "grid": "fluid-engine fe-67058503132cb22260ede0d9",
+      "id": "6705850336a84f2ca2501714",
+      "padding": 0.5,
+      "minHeight": 5,
+      "backgroundImage": null
+    }
+  ]
+}

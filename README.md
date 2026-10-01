@@ -5,7 +5,7 @@ Next.js + Tailwind CSS website concept built from the supplied fictional therapi
 ## Review
 - Public website: https://mondradmin.github.io/maya-reynolds-stage-two/
 - `/`: Dr. Maya Reynolds redesign, including three services, approach, biography, FAQs and custom office section.
-- `/clone/`: reference homepage study, preserving its main section order, image/text splits, service grid and footer structure.
+- `/clone/`: faithful reference homepage clone with all nine content sections and both footer sections, original responsive grids, typography, imagery and hierarchy.
 
 ## Run
 Requires Node.js 20.9+ and pnpm.
@@ -24,7 +24,7 @@ Deep teal, warm ivory and muted copper create a calm coastal identity. Cormorant
 ## Content and scope
 All clinical claims come from the supplied fictional Dr. Maya Reynolds profile. Adult anxiety/panic, trauma/EMDR, burnout/perfectionism, CBT, mindfulness, body-oriented work, in-person Santa Monica sessions and California telehealth are represented. No fees, insurance policies, contact details, session lengths, reviews or additional qualifications are invented. The supplied address appears malformed, so the concept lists Santa Monica and its supplied ZIP code. The contact disclosure says that the demonstration does not accept appointments or messages. The site is clearly labeled fictional and excluded from search indexing.
 
-The reference route is an evaluation study, not a pixel-perfect reproduction. Open-source typography substitutes for the reference’s proprietary fonts. Links to original practice pages remain external where appropriate.
+The reference route reconstructs the original homepage as native React content with its desktop/mobile grid positions, spacing, hierarchy, image crops and colours. The original fonts load from the original public font delivery URLs; they are not redistributed in this repository. Links to original practice pages remain external where appropriate. The clone includes no original tracking scripts.
 
 ## Assets
 - Supplied profile: therapist portrait and two office photographs.
